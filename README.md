@@ -1,10 +1,7 @@
-#One Page Scroll 1.3.1 by Pete R.
-Create an Apple-like one page scroll website (iPhone 5S website) with One Page Scroll plugin
-Created by [Pete R.](http://www.thepetedesign.com), Founder of [BucketListly](http://www.bucketlistly.com)
+#One Page Scroll 1.3.1 
+Create an Apple-like one page scroll websby Pete R.ite (iPhone 5S website) with One Page Scroll plugin
 
 License: [Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/deed.en_US)
-
-[![One Page Scroll](http://www.thepetedesign.com/images/onepage_scroll_image.png "One Page Scroll")](http://www.thepetedesign.com/demos/onepage_scroll_demo.html)
 
 ## Requirement
 
@@ -15,7 +12,7 @@ note: jQuery 1.9.0 or later is strongly recommended because using jQuery less th
 see: http://jsfiddle.net/33WJx/
 
 ## Demo
-[View demo](http://www.thepetedesign.com/demos/onepage_scroll_demo.html)
+[View demo](http://www.openpython.online/projects/apple/)
 
 ## Compatibility
 Modern browsers such as Chrome, Firefox, and Safari on both desktop and smartphones have been tested. Should work fine on IE8 and IE9 as well.
@@ -57,7 +54,7 @@ $(".main").onepage_scroll({
    direction: "vertical"            // You can now define the direction of the One Page Scroll animation. Options available are "vertical" and "horizontal". The default value is "vertical".  
 });
 ````
-And that's it. Now, your website should work the same way Apple's iPhone 5S website does. You should be able to swipe up/down as well (thanks to [Eike Send](https://github.com/eikes) for his swipe events!) when viewing your website on mobile phones.
+And that's it. Now, your website should work the same way Apple's iPhone 5S website does. You should be able to swipe up/down as well when viewing your website on mobile phones.
 
 ## Keyboard Shortcuts
 You can trigger page move with hotkeys as well:
@@ -127,10 +124,3 @@ This callback gets called after the move animation was performed.
     }
   });
 ````
-
-If you want to see more of my plugins, visit [The Pete Design](http://www.thepetedesign.com/#design), or follow me on [Twitter](http://www.twitter.com/peachananr) and [Github](http://www.github.com/peachananr).
-
-## Other Resources
-- [OnePageScroll.js: Creating an Apple’s iPhone 5S Website](http://www.onextrapixel.com/2013/09/18/onepagescroll-js-creating-an-apples-iphone-5s-website/)
-- [Eike Send's jQuery Swipe Events](https://github.com/eikes/jquery.swipe-events.js)
-- [CSS Easing generator by Matthew Lein](http://matthewlein.com/ceaser/)

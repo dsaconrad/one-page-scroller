@@ -12,7 +12,7 @@ note: jQuery 1.9.0 or later is strongly recommended because using jQuery less th
 see: http://jsfiddle.net/33WJx/
 
 ## Demo
-[View demo](http://www.openpython.online/projects/apple/)
+[View demo](http://www.iconrad.website/projects/apple/)
 
 ## Compatibility
 Modern browsers such as Chrome, Firefox, and Safari on both desktop and smartphones have been tested. Should work fine on IE8 and IE9 as well.
